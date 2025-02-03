@@ -1,3 +1,5 @@
 This is a simple hack for GMOD that enables extra sensory perception (ESP).
 
 To toggle ESP click numpad 0.
+
+YOU MUST SET CHARACTER SET TO MULTI BYTYE AND SET PROGRAM ARCHITECTURE TO X86 OR IT WONT BE ABLE TO FIND THE PROCESSES BASE ADDRESSES
