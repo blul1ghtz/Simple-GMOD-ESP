@@ -1,3 +1,4 @@
+THIS IS FOR OFFLINE ONLY (TIL I PATCH IN ONLINE VARIABLE)
 This is a simple hack for GMOD that enables extra sensory perception (ESP).
 
 To toggle ESP click numpad 0.
